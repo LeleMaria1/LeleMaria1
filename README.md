@@ -1,7 +1,7 @@
 # Leticia Maria Onofre
 ## Hello! Welcome to my Github profile👋
 
-- 📚 I’m currently learning Development of Systems
+- 📚 System development technician
 - ✨ Fun fact: my favorite hobby is singing
 - 🎂 My birthday is on 01 July
 - 📫 How to reach me: leticiaonofre01@gmail.com
