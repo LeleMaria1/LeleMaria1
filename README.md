@@ -1,7 +1,6 @@
 # Leticia Maria Onofre
 ## Hello! Welcome to my Github profile👋
 
-- 💻 I’m currently working on Malwee-BR
 - 📚 I’m currently learning Development of Systems
 - ✨ Fun fact: my favorite hobby is singing
 - 🎂 My birthday is on 01 July
